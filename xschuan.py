@@ -187,9 +187,9 @@ def read_data_from_keyboard():
 def read_data_from_file():
     while True:
         print("\nCHỌN BỘ DỮ LIỆU")
-        print("1. test1 - dữ liệu gần phân phối chuẩn")
-        print("2. test2 - bộ dữ liệu kiểm tra")
-        print("3. test3 - bộ dữ liệu bổ sung")
+        print("1. test1 ")
+        print("2. test2 ")
+        print("3. test3 ")
         file_choice = input("Nhập lựa chọn (1, 2 hoặc 3): ").strip()
         project_path = Path(__file__).resolve().parent
         test_files = {
