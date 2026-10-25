@@ -3,3 +3,4 @@
 __pycache__/
 *.pyc
 normal_probability_plot.png
+normal_probability_plot_*.png
